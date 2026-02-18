@@ -27,6 +27,20 @@
       "dueDate": "2026-01-19"
     },
     {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create and test REST API endpoints using FastAPI and Pydantic models.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-02-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
